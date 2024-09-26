@@ -2,8 +2,6 @@
 
 **Date completed: December 4th, 2023**
 
-Final assignment for my graphics class. Task was to write a raytracer from scratch that handles spheres and transformed spheres. Does not handle refracted light, but does handle reflected light and local illumination. 
-
 **INPUT FILE SPECIFICATIONS:**
 
 Files must be in folder named Tests-and-Keys. Folder already contains example test.txt files and the .png keys for each test with the expected output.
